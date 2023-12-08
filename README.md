@@ -5,3 +5,4 @@ Day 10 - Functions with Outputs
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (07/12/2023); update tomorrow.
+  Finished practice (08/12/2023); updated.
